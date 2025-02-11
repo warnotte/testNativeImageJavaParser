@@ -70,7 +70,7 @@
 				</executions>
 			</plugin>
 
-			<!-- Not working -->
+			<!-- Not working when executing executable -->
 			<plugin>
 				<groupId>org.graalvm.buildtools</groupId>
 				<artifactId>native-maven-plugin</artifactId>
